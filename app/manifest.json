@@ -12,7 +12,7 @@
   "permissions": [
     "notifications",
     "webview",
-    {"fileSystem": ["write"]},
+    "fileSystem",
     "storage",
     "unlimitedStorage",
     "fullscreen"
